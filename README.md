@@ -1,6 +1,6 @@
 👋 Hi, I'm Muhammad Tasawer Sadiq
  
-🔐 Cybersecurity (Intermediate) | 💻 C++ Programmer | 🌐 Front-End Web Developer  
+🔐 Cybersecurity  Specialist| 💻 Programmer | 🌐 Front-End Web Developer  
 🏆 CTF Player | Online Cyber Labs
 
 I am a motivated cybersecurity specialist with hands-on experience in secure programming, front-end web development, and Capture The Flag (CTF) challenges. I enjoy understanding how systems work, how vulnerabilities arise, and how to secure applications effectively.

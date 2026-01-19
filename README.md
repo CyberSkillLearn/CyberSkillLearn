@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Muhammad Tasawer Sadiq
  
-🔐 Cybersecurity  Specialist| 💻 Programmer | 🌐 Front-End Web Developer  
-🏆 CTF Player | Online Cyber Labs
+🔐 Cybersecurity  Student| 💻 Programmer | 🌐 Front-End Web Developer  
+🏆 CTF Player 
 
-I am a motivated cybersecurity specialist with hands-on experience in secure programming, front-end web development, and Capture The Flag (CTF) challenges. I enjoy understanding how systems work, how vulnerabilities arise, and how to secure applications effectively.
+I am a motivated cybersecurity student with hands-on experience in secure programming, front-end web development, and Capture The Flag (CTF) challenges. I enjoy understanding how systems work, how vulnerabilities arise, and how to secure applications effectively.
 
 
 ## 🔐 Cybersecurity Skills
 
-- Cybersecurity & Information Security   
+- Cybersecurity & Information Security Fundamentals  
 - Web Security   
 - Linux Fundamentals & File Permissions  
 - Networking Basics (TCP/IP, OSI Model)  
